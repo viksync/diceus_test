@@ -1,0 +1,4 @@
+# Lock files (optional, usually no need to format)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

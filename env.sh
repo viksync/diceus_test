@@ -1,0 +1,12 @@
+#!/bin/bash
+
+export SECRET_TOKEN=
+export BOT_TOKEN=
+export SERVER_URL=
+export PORT=
+
+export OPENAI_API_KEY=
+
+export MINDEE_API_KEY=
+export MINDEE_PASSPORT_MODEL_ID=
+export MINDEE_DRIVER_LICENCE_MODEL_ID=
